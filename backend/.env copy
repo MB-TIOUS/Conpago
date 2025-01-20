@@ -1,0 +1,3 @@
+MONGO_URI=mongodb://localhost:27017/musixmatch
+MUSIXMATCH_API_KEY=APIKEY
+JWT_SECRET=hewuihfujbf23837
